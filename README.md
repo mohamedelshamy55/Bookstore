@@ -1,4 +1,4 @@
-![screenshot](https://github.com/mohamedelshamy55/Bookstore/blob/develop/screenshot.png)
+![screenshot](https://github.com/mohamedelshamy55/Bookstore/blob/develop/preview.png)
 
 # Bookstore
 
